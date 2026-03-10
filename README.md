@@ -2,6 +2,7 @@
 
 A sleek, responsive, and professional Quiz Application built using **HTML5, CSS3, and Vanilla JavaScript**. This project is designed to provide a smooth user experience while testing knowledge across various topics.
 
+[Live On Browser](https://mdrajatech03.github.io/Quiz_App/)
 ---
 
 ## 🚀 Key Features
@@ -30,4 +31,4 @@ Quiz_App/
 ├── style.css     # Styling & UI Components
 ├── script.js     # Core Logic & Quiz Data
 ├── icon.png      # App Icon
-└── README.md     # Documentation
+└── README.md     # Documentatio
