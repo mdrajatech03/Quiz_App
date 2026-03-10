@@ -15,6 +15,13 @@ A sleek, responsive, and professional Quiz Application built using **HTML5, CSS3
 
 ---
 
+
+
+## Review 
+
+![Quiz - App Screenshot](screenshot.jpg)
+
+
 ## 🛠️ Tech Stack
 
 * **HTML5:** For the semantic structure of the web app.
@@ -22,6 +29,15 @@ A sleek, responsive, and professional Quiz Application built using **HTML5, CSS3
 * **JavaScript (ES6):** For handling the quiz logic, event listeners, and state management.
 
 ---
+
+
+
+## 👨‍💻 Author
+
+**Rajatech**
+
+GitHub: https://github.com/mdrajatech03
+
 
 ## 📁 Project Structure
 
@@ -31,4 +47,4 @@ Quiz_App/
 ├── style.css     # Styling & UI Components
 ├── script.js     # Core Logic & Quiz Data
 ├── icon.png      # App Icon
-└── README.md     # Documentatio
+└── README.md     # Documentation
