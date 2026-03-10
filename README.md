@@ -32,10 +32,15 @@ Quiz_App/
 ├── icon.png      # App Icon
 └── README.md     # Documentation
 
+-------
+
 
 ## ⚙️ Installation & Usage
 
-git clone [https://github.com/mdrajatech03/Quiz_App.git](https://github.com/mdrajatech03/Quiz_App.git)
+1. **Clone the Repository:**
+   ```bash
+   git clone [https://github.com/mdrajatech03/Quiz_App.git](https://github.com/mdrajatech03/Quiz_App.git)
+
 
 ## Navigation 🧭 To Folder
 cd Quiz_App
